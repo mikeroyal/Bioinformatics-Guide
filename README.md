@@ -23,7 +23,7 @@
 
 4. [Algorithms](https://github.com/mikeroyal/Bioinformatics-Guide#algorithms)
 
-5. [MATLAB](https://github.com/mikeroyal/Bioinformatics-Guide#matlab)
+5. [MATLAB Development](https://github.com/mikeroyal/Bioinformatics-Guide#matlab-development)
 
 6. [R Development](https://github.com/mikeroyal/Bioinformatics-Guide#r-development)
 
