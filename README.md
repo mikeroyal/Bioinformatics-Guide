@@ -300,14 +300,6 @@
 **Bayes' theorem. Source:[mathisfun](https://www.mathsisfun.com/data/bayes-theorem.html)**
 
 
-# Machine Learning
-[Back to the Top](https://github.com/mikeroyal/Biometrics-Guide#table-of-contents)
-
-<img src="https://user-images.githubusercontent.com/45159366/105645196-dccfd480-5e4e-11eb-95d1-c5eb560b72fd.jpeg">
-
-**Machine Learning/Deep Learning Frameworks.**
-
-
 # MATLAB Development
 [Back to the Top](https://github.com/mikeroyal/Bioinformatics-Guide#table-of-contents)
 
