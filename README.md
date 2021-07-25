@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/126080526-c074674c-5898-48ab-9b68-a59e4648d15e.png">
+ <img src="https://user-images.githubusercontent.com/45159366/126912438-49cc660e-90c5-4cbc-828b-10e807b99767.png">
   <br />
   Bioinformatics Guide
 </h1>
@@ -9,7 +9,7 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/126080527-d06f7105-ec18-44be-9594-56318934cf6b.png">
+ <img src="https://user-images.githubusercontent.com/45159366/126912448-3eb1b25e-f575-47cb-9f34-a3d9dc0074dd.png">
   <br />
 </p>
 
